@@ -1,0 +1,38 @@
+segment_sources:
+  P5E19B19C:
+    type: origin_type
+    relation: translation
+    language: sa
+  PCD9647C0:
+    type: origin_type
+    relation: translation
+    language: zh
+  PB3743493:
+    type: origin_type
+    relation: translation
+    language: zh
+  P8288ADA0:
+    type: origin_type
+    relation: translation
+    language: zh
+  P4777EEE5:
+    type: origin_type
+    relation: translation
+    language: bo
+  P4610414A:
+    type: origin_type
+    relation: translation
+    language: en
+  P406D6ADF:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  fe079c08fa9243209539b15b35d80ae2:
+    P5E19B19C: 4239fb69937a4dc09fbd5c8962595607
+    PCD9647C0: None
+    PB3743493: None
+    P8288ADA0: None
+    P4777EEE5: 75fc0d3996024afd9ad070133afff759
+    P4610414A: d8e61f9203a0444e8eff40ed923d0c03
+    P406D6ADF: 11306ef7a0f6443e9c06748f1530fc9b

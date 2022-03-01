@@ -1,0 +1,62 @@
+segment_sources:
+  P5E19B19C:
+    type: origin_type
+    relation: translation
+    language: sa
+  PCD9647C0:
+    type: origin_type
+    relation: translation
+    language: zh
+  PB3743493:
+    type: origin_type
+    relation: translation
+    language: zh
+  P8288ADA0:
+    type: origin_type
+    relation: translation
+    language: zh
+  P4777EEE5:
+    type: origin_type
+    relation: translation
+    language: bo
+  P4610414A:
+    type: origin_type
+    relation: translation
+    language: en
+  P406D6ADF:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  8dc0d9037aff443a862400ca1f8ccef6:
+    P5E19B19C: 96310474a0334082b76feec92349e37c
+    PCD9647C0: 586592ebd81f453a8bba5ea5da6d1b2d
+    PB3743493: 90cd9555d0124ccfa14ada2dfa1abc9a
+    P8288ADA0: c735c16ef84c40e79ba017bb306de7a7
+    P4777EEE5: 1894f208dea74b23ae1f8a434742aa09
+    P4610414A: 72fd33d37b5349f08446a56e565ce5c4
+    P406D6ADF: 34caf3f0c16843f494e7a0a3adfb2ead
+  65213b7924504d68b2801ced1b76de0f:
+    P5E19B19C: bf00d4d8e64a4b859bbaeb91d1de4119
+    PCD9647C0: b27f528479434716b87085793ed20a3e
+    PB3743493: 6783f2eeb3224e9aa3b51ada6e89d0fc
+    P8288ADA0: 3eafd47cca0447b58fcff709f10f267f
+    P4777EEE5: a6eadfd38aba4feabf0885ae26ba8e88
+    P4610414A: d5d4b711ef894f308c44d16d9f0be9cd
+    P406D6ADF: 0f25ac1c624447d68f3f402fc64334e5
+  2557e927c77b49c6abb94a9999b891dd:
+    P5E19B19C: 2955800b8c6447978034bb8f91f8a099
+    PCD9647C0: 0c187e47c91d42e7939841ebd67f2f0b
+    PB3743493: eb5aaccf0aac4fed8569709e8055a085
+    P8288ADA0: 8dc7cc0c0d444324a032cbbbc8fc5394
+    P4777EEE5: 3448f077614448d8808ca086617a9e2c
+    P4610414A: 428b9e06e8b7451fb595292d5abb7c7d
+    P406D6ADF: e6ed9fd0ae284e8b8c035fd5c8868aed
+  81b75514cda74771a4ddde2410a3d293:
+    P5E19B19C: cae0ece1d82649cead4c8a2b2385a34b
+    PCD9647C0: b32829349daa44f1b8670b710d4c99c7
+    PB3743493: 875f8bac8b8c41ce9fc48958ae89a290
+    P8288ADA0: e2ee05b2494c47f880999e771450ba78
+    P4777EEE5: d66e5b95f02541c2ac9b08c3530fd59c
+    P4610414A: 25cbb080124644d5861d60d860d00370
+    P406D6ADF: a8563a08b96b4a5c941627179b157671
